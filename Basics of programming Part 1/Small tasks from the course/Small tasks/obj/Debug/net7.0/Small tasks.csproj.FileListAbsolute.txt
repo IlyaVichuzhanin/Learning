@@ -1,0 +1,15 @@
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\bin\Debug\net7.0\Small tasks.exe
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\bin\Debug\net7.0\Small tasks.deps.json
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\bin\Debug\net7.0\Small tasks.runtimeconfig.json
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\bin\Debug\net7.0\Small tasks.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\bin\Debug\net7.0\Small tasks.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.csproj.AssemblyReference.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.AssemblyInfoInputs.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.AssemblyInfo.cs
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.csproj.CoreCompileInputs.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\refint\Small tasks.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\Small tasks.genruntimeconfig.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Small tasks from the course\Small tasks\obj\Debug\net7.0\ref\Small tasks.dll
