@@ -1,0 +1,10 @@
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\bin\Debug\Distance.exe.config
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\bin\Debug\Distance.exe
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\bin\Debug\Distance.pdb
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\bin\Debug\TestingRoom.dll
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\obj\Debug\Distance.csproj.SuggestedBindingRedirects.cache
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\obj\Debug\Distance.csproj.CopyComplete
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\obj\Debug\Distance.exe
+C:\Users\vychuzhanin.ia\Downloads\Distance.csproj (1)\obj\Debug\Distance.pdb

@@ -1,0 +1,10 @@
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\bin\Debug\Rectangles.exe.config
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\bin\Debug\Rectangles.exe
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\bin\Debug\Rectangles.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\bin\Debug\TestingRoom.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\obj\Debug\Rectangles.csproj.AssemblyReference.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\obj\Debug\Rectangles.csproj.SuggestedBindingRedirects.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\obj\Debug\Rectangles.csproj.CopyComplete
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\obj\Debug\Rectangles.exe
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Rectangles.csproj (1)\obj\Debug\Rectangles.pdb
