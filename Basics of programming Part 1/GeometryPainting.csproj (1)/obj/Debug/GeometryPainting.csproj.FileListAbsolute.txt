@@ -1,0 +1,13 @@
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\bin\Debug\GeometryPainting.exe.config
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\bin\Debug\GeometryPainting.exe
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\bin\Debug\GeometryPainting.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\bin\Debug\Geometry.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\bin\Debug\Geometry.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.csproj.AssemblyReference.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.csproj.SuggestedBindingRedirects.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.Properties.Resources.resources
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.csproj.CopyComplete
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.exe
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\GeometryPainting.csproj (1)\obj\Debug\GeometryPainting.pdb

@@ -1,0 +1,12 @@
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\bin\Debug\net7.0\Geometry.deps.json
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\bin\Debug\net7.0\Geometry.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\bin\Debug\net7.0\Geometry.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\Geometry.csproj.AssemblyReference.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfoInputs.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfo.cs
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\Geometry.csproj.CoreCompileInputs.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\Geometry.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\refint\Geometry.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\Geometry.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Geometry\obj\Debug\net7.0\ref\Geometry.dll
