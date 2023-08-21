@@ -1,0 +1,10 @@
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\bin\Debug\RefactorMe.exe.config
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\bin\Debug\RefactorMe.exe
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\bin\Debug\RefactorMe.pdb
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\bin\Debug\nunit.framework.dll
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\obj\Debug\Risovatel.csproj.AssemblyReference.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\obj\Debug\Risovatel.csproj.SuggestedBindingRedirects.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\obj\Debug\Risovatel.csproj.CopyComplete
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\obj\Debug\RefactorMe.exe
+D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 1\Risovatel.csproj (1)\obj\Debug\RefactorMe.pdb
