@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="ghost.dll" fullname="D:/GitHub repositories/Learning-ULearn-platform-/Basics of programming Part 2/ghost/bin/Debug/net6.0/ghost.dll" testcasecount="1" result="Passed" start-time="2023-08-29T13:31:01.3954496Z" end-time="2023-08-29T13:33:06.7594579Z" duration="125.363951" total="1" passed="1" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="5" random-seed="1610312665">
+  <command-line><![CDATA["D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 2\ghost\bin\Debug\net6.0\ghost.dll"]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1002" name="ghost.dll" fullname="D:/GitHub repositories/Learning-ULearn-platform-/Basics of programming Part 2/ghost/bin/Debug/net6.0/ghost.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2023-08-29T13:31:01.3954496Z" end-time="2023-08-29T13:33:06.7594579Z" duration="125.363951" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+    <environment framework-version="3.13.3.0" clr-version="6.0.16" os-version="Microsoft Windows 10.0.19045" platform="Win32NT" cwd="D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 2\ghost\bin\Debug\net6.0" machine-name="PITC-M-VYCHUZHA" user="Vychuzhanin.IA" user-domain="PNSH" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="D:\GitHub repositories\Learning-ULearn-platform-\Basics of programming Part 2\ghost\bin\Debug\net6.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="18852" />
+      <property name="_APPDOMAIN" value="ghost" />
+    </properties>
+    <test-suite type="TestSuite" id="1003" name="hashes" fullname="hashes" runstate="Runnable" testcasecount="1" result="Passed" start-time="2023-08-29T13:31:01.4020023Z" end-time="2023-08-29T13:33:06.7594279Z" duration="125.357426" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+      <test-suite type="TestFixture" id="1000" name="GhostsTest" fullname="hashes.GhostsTest" classname="hashes.GhostsTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2023-08-29T13:31:01.4034881Z" end-time="2023-08-29T13:33:06.7586652Z" duration="125.355177" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+        <test-case id="1001" name="GhostDocumentBreaksHashSet" fullname="hashes.GhostsTest.GhostDocumentBreaksHashSet" methodname="GhostDocumentBreaksHashSet" classname="hashes.GhostsTest" runstate="Runnable" seed="585235433" result="Passed" start-time="2023-08-29T13:31:01.4053636Z" end-time="2023-08-29T13:33:06.7526487Z" duration="125.347688" asserts="5" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
